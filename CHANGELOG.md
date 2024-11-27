@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/reggi/ts-starter/compare/v1.2.0...v1.2.1) (2024-11-27)
+
+
+### Bug Fixes
+
+* add repository url for provenance ([a6c259d](https://github.com/reggi/ts-starter/commit/a6c259d2ac6e7503f7d450d81ba6e73db57887a7))
+
 ## [1.2.0](https://github.com/reggi/ts-starter/compare/v1.1.0...v1.2.0) (2024-11-27)
 
 
